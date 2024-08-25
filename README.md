@@ -28,7 +28,7 @@ To compile and use `libft`, you need:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/libft.git
+git clone git@github.com:Mohamadaliibrahim/Lib_ft.git
 cd libft
 ```
 
@@ -103,5 +103,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 3. Commit your changes: `git commit -m 'Add some feature'`
 4. Push to the branch: `git push origin feature/my-feature`
 5. Open a pull request.
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
