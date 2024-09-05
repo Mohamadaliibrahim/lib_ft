@@ -103,3 +103,8 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 3. Commit your changes: `git commit -m 'Add some feature'`
 4. Push to the branch: `git push origin feature/my-feature`
 5. Open a pull request.
+
+
+### Author
+
+This project was developed by **mohamibr** as part of the 42 school curriculum.
