@@ -79,7 +79,7 @@ The `libft` library includes the following categories of functions:
 To use `libft` in your project, include the library header:
 
 ```c
-#include "libft.h"
+#include "lib_ft/inc/libft.h"
 ```
 
 Compile your project by linking the `libft.a` file:
