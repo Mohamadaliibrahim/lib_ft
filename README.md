@@ -32,7 +32,7 @@ git clone git@github.com:Mohamadaliibrahim/lib_ft.git
 ```
 Enter the file:
 ```bash
-cd libft
+cd lib_ft/lib_ft
 ```
 
 ### Building the Library
